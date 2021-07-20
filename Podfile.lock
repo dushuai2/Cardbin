@@ -1,0 +1,62 @@
+PODS:
+  - BmobSDK (2.2.7)
+  - FMDB/common (2.5)
+  - FMDB/SQLCipher (2.5):
+    - FMDB/common
+    - SQLCipher
+  - Mantle (1.5.1):
+    - Mantle/extobjc (= 1.5.1)
+  - Mantle/extobjc (1.5.1)
+  - Masonry (0.6.3)
+  - Pendo (2.6.3.2507)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SFHFKeychainUtils (0.0.1)
+  - SQLCipher (3.1.0):
+    - SQLCipher/standard (= 3.1.0)
+  - SQLCipher/common (3.1.0)
+  - SQLCipher/standard (3.1.0):
+    - SQLCipher/common
+  - UIColor-Hex (0.1.1)
+
+DEPENDENCIES:
+  - BmobSDK
+  - FMDB/SQLCipher
+  - Mantle (= 1.5.1)
+  - Masonry (= 0.6.3)
+  - Pendo (~> 2.6.0)
+  - ReactiveCocoa (~> 2.5)
+  - SFHFKeychainUtils (~> 0.0.1)
+  - UIColor-Hex (= 0.1.1)
+
+SPEC REPOS:
+  trunk:
+    - BmobSDK
+    - FMDB
+    - Mantle
+    - Masonry
+    - Pendo
+    - ReactiveCocoa
+    - SFHFKeychainUtils
+    - SQLCipher
+    - UIColor-Hex
+
+SPEC CHECKSUMS:
+  BmobSDK: ed095cac4e0587e85d1ce786dd3762bdf1ba2203
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  Mantle: 1ec9076f091f3a2f95cb2c94939e92dba35c97e1
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  Pendo: 22d811c137f9d1722b03f8060f10c3d6119bb135
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SFHFKeychainUtils: 9576b411a79a058f4d5381ace6f3242b9a62e664
+  SQLCipher: 4684434d5791db86512cd7e02172aefba575849e
+  UIColor-Hex: 77e80f383c6b3a63c5e95a9a4a7f4a71976e38a5
+
+PODFILE CHECKSUM: 85ed29ab8c379bcb015bcf21c6bf044fed7bf2b1
+
+COCOAPODS: 1.10.0.beta.2

@@ -1,0 +1,6 @@
+framework module Pods_EuropeBIN {
+  umbrella header "Pods-EuropeBIN-umbrella.h"
+
+  export *
+  module * { export * }
+}

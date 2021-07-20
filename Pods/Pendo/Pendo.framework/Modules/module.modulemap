@@ -1,0 +1,6 @@
+framework module Pendo {
+  umbrella header "Pendo.h"
+
+  export *
+  module * { export * }
+}
